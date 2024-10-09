@@ -8,5 +8,5 @@ glorified debug environment whitin discord memory spacez
 
 
 ## Issues       
-1. The code is executed more than once on launch.
+1. The code is executed more than once on launch. Prawlly threads...
 2. A Discord update would kill persistence, there has to be a workaround.
