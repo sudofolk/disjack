@@ -13,4 +13,4 @@ glorified debug environment whitin discord memory spacez
 
 
 ## Solution
-fix the dam thing so it cant be Dun shouldbe able to be scanned for..
+fix the dam thing so it cant be Dunn shouldbe able to be scanned for..
